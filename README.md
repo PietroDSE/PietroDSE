@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @PietroDSE
-- 👀 interessado em HTML, CSS, Python, PHP, JavaScript 
-- 🌱 aprendendo PHP para entrar no mercado de trabalho
+- 👀 interessado em HTML, CSS, Python, PHP, JavaScript, tailwind CSS, React
+- 🌱 aprendendo PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
